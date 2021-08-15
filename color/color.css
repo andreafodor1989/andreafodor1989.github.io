@@ -1,0 +1,24 @@
+
+
+html {
+
+    background-color: chocolate;
+}
+
+h1 {
+    color: black;
+    font-size: bold;
+    text-align:center;
+}
+
+#étlap {margin: 50px;text-decoration: underline;font-size: bold;}
+
+
+li {list-style: none;}
+
+img {margin: 5px;border: solid;box-shadow: 3 3 7 px;box-shadow: gray;}
+
+h3 {text-align: center; color:rgb(75, 20, 20);}
+tr {color: green;}
+table {text-align: center;margin: 50px;}
+.login-div {border: solid;border-color: black;}
